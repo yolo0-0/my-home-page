@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "我的个人网站",
+    "section": "",
+    "text": "你好！我是[刘浩东]\n学号：2025303120076 这是我用 Quarto 搭建的个人网站。"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于我",
+    "section": "",
+    "text": "个人信息\n\n姓名：[刘浩东]\n学号：2025303120076"
+  }
+]
